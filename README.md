@@ -27,6 +27,18 @@ gitの使用方法を確認する。
 
   git clone https://github.com/alpha-git-user01/test-project.git
 
+  ```
+  C:\Dev\tt-test>cd ./test-project
+  ```
+  
+  node.jsのpackage.jsonを適用
+
+  ```
+  C:\Dev\tt-test\test-project>npm install 
+  added 65 packages from 44 contributors and audited 65 packages in 1.226s
+  found 0 vulnerabilities
+  ```
+
 4. ブランチの作成
 
   ・ブランチ名は以下のようにユーザ名を付与して分けてください。
