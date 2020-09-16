@@ -1,7 +1,0 @@
-diff a/views/index.ejs b/views/index.ejs	(rejected hunks)
-@@ -1,6 +1,5 @@
- <html>
- <body>
-     <h1>Happy Project AAAA</h1>
- </body>
- </html>
